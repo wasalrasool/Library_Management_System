@@ -2,7 +2,6 @@
 // LIBRARY MANAGEMENT SYSTEM 
 
 // R# 20L-1403   
-// R# 20L-1507
 
 // SECTION : 1A1
 
