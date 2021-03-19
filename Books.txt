@@ -1,0 +1,8 @@
+BOOK_NAME:                                        BOOK_NUMBER:        DEPARTMENT:                        AVAILABILITY:       ISSUE_DETAILS
+Islamiat_&_Theology                               454                 Arts_&_Humanities                  Unavailable         778899
+Circuit_Analysis                                  462                 Electrical_Engineering             Available           ------
+Introduction_to_Computing                         543                 Electrical_Engineering             Available           ------
+Programming_Fundamentals                          457                 Computer_Sceince                   Available           ------
+English_Language                                  459                 Arts_&_Humanities                  Unavailable         309845
+Architectural_Design                              460                 Civil_Engineering                  Available           ------
+Machine_Learning                                  701                 Computer_Sceince                   Unavailable         223364
