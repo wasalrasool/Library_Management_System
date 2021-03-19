@@ -4,6 +4,5 @@ Please do not remove any speacial characters such as underscores from the "Books
 Regards,
 
 WASAL (20L-1403)
-DANIYAL (20L-1507)
 
 Section : 1A1
